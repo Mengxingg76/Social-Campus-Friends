@@ -7,14 +7,13 @@
 - ✅ 发布/删除动态（支持图片上传）
 - ✅ 点赞与评论功能
 - ✅ 关注/取关用户
-- ✅ 响应式设计（适配移动端）
 
 ## 🛠 技术栈
 **前端**  
 ▶ React.js + Vite  
 ▶ 状态管理：Context API  
 ▶ HTTP 客户端：Axios  
-▶ UI 组件库：Chakra UI（或其他库）  
+▶ UI 组件库：React-Ui（或其他库）  
 
 **后端**  
 ▶ Node.js + Express  
@@ -22,4 +21,4 @@
 ▶ 数据校验：Express Validator  
 
 **数据库**  
-▶ MySQL（使用 Sequelize 或 mysql2 驱动）  
+▶ MySQL
