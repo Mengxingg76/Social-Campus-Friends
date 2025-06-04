@@ -23,12 +23,3 @@
 
 **数据库**  
 ▶ MySQL（使用 Sequelize 或 mysql2 驱动）  
-
-**其他服务**  
-▶ 图片存储：Cloudinary  
-▶ 环境变量：dotenv  
-
-## 🚀 快速开始
-1. 克隆仓库：
-   ```bash
-   git clone https://github.com/你的用户名/social-network-fullstack.git
