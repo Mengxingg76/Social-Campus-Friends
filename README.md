@@ -34,8 +34,7 @@ yarn install
 yarn start
 ```
 ### 后端启动
-```
-bash
+```bash
 cd api
 yarn install
 yarn start
